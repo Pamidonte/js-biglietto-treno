@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.informazioni p {
+    margin: 0;
+}
+
+
+.info-contatto{
+    color: rgb(238, 16, 219);
+    font-weight: bold;
+}
